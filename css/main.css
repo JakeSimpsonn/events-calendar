@@ -1,15 +1,40 @@
 html {
-  font-family: font-family: Merriweather, serif;
+  font-family: Merriweather, serif;
 }
 
-main {
-  background-color:
+.gr {
+  border: 1px solid #51603f;
+  color: #6b7e54;
+  background-color: #d1e0bf;
 }
 
-table {
-  min-width:
+.box {
+  border-radius: 8px;
+  border: 1px solid #333;
 }
 
-tbody tr:nth-child(odd) {
-  background-color:
+.det {
+  color: #1d38da;
+  border: 1px solid #38448e;
+  background-color: #d2d6f0;
+}
+
+.vostok {
+  color: #666;
+  background-color: #f2f2f2;
+}
+
+.remembrance {
+  color: #b92828;
+  background-color: #f2bcbc;
+  border: 1px solid #991919;
+}
+
+th {
+  border: 1px solid #ccc;
+}
+
+td {
+  height: 10em;
+  border: 1px solid #ccc;
 }
